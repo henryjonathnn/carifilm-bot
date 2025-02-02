@@ -2,7 +2,8 @@
 
 **CineBot** is a modern Telegram bot that allows users to search for movies and get IMDb/TMDb ratings and detailed information. It's designed to help movie enthusiasts quickly discover the best films and their ratings without the hassle.
 
-<!-- ![CineBot Screenshot](https://via.placeholder.com/800x400) -->
+## Try My Bot
+[t.me/cinebothyura](https://t.me/cinebothyura)
 
 ## User Features
 - Search movies by title, year, or genre

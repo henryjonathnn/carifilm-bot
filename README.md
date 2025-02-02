@@ -14,7 +14,7 @@
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,telegram,imdb,tmdb&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=7" />
 </p>
 
 ## Quick Start

@@ -21,7 +21,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/username/cinebot.git
+git clone https://github.com/henryjonathnn/cinebot.git
 
 # Install dependencies
 cd cinebot && npm install
